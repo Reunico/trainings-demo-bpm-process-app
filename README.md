@@ -1,3 +1,7 @@
+Предлагается самостоятельно рассмотреть слабые стороны этого учебного процесса
+Провести дальнейшую автоматизацию
+
+
 # Camunda BPM Process Application
 A Process Application for [Camunda BPM](http://docs.camunda.org).
 
